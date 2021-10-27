@@ -4,5 +4,5 @@ description: "Personal website of a computer engineer interested in all things s
 ---
 
 Welcome to the personal website of\
-a computer engineering interested in\
+a computer engineer interested in\
 all things software related.
