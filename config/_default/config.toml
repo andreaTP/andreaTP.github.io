@@ -1,0 +1,17 @@
+baseURL = 'http://andreaperuffo.com/'
+languageCode = 'en-us'
+title = 'Andrea Peruffo'
+theme = "congo"
+
+[author]
+  name = "Andrea Peruffo"
+  image = "img/io.png"
+  links = [
+    { github = "https://github.com/andreaTP" },
+    { twitter = "https://twitter.com/and_prf" },
+    { linkedin = "https://linkedin.com/in/andrea-peruffo-32269178" },
+    { email = "mailto:andrea.peruffo1982@gmail.com" },
+  ]
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files

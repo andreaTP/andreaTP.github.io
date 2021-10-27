@@ -1,0 +1,11 @@
+
+colorScheme = "congo"
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showDate = true
+  showReadingTime = false
