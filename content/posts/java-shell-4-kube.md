@@ -2,21 +2,13 @@
 title: "Typed Java shell for Kubernetes extensions at fingertips"
 date: 2021-05-11T10:46:23+01:00
 draft: false
-tags:
-- Kubernetes
-- k8s
-- Java
-- JShell
-- fabric8
-- kubernetes-client
-- jbang
 ---
 
 Working with Java vibrant tooling ecosystem on Kubernetes nowadays is a blast and you should know about it!
 
 ![demo](/img/demo.gif)
 
-Wait, wait, what's going on there???
+Wait, wait, what's going on???
 
 Let's go through the BOM of this demo first:
 
