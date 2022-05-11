@@ -1,0 +1,11 @@
+title = 'Andrea Peruffo'
+
+[author]
+  name = "Andrea Peruffo"
+  image = "img/author.jpg"
+  links = [
+    { github = "https://github.com/andreaTP" },
+    { twitter = "https://twitter.com/and_prf" },
+    { linkedin = "https://linkedin.com/in/andrea-peruffo-32269178" },
+    { email = "mailto:andrea.peruffo1982@gmail.com" },
+  ]
