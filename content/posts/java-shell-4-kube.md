@@ -1,6 +1,6 @@
 ---
 title: "Typed Java shell for Kubernetes extensions at fingertips"
-date: 2021-05-11T10:46:23+01:00
+date: 2022-05-11T10:46:23+01:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ Working with Java vibrant tooling ecosystem on Kubernetes nowadays is a blast an
 
 Wait, wait, what's going on???
 
-Let's go through the BOM of this demo first:
+Let's go through the BOM (Bill of Material) of the used tools first:
 
 ## :globe_with_meridians: Kubernetes extensions
 
