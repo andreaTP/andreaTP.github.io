@@ -1,6 +1,6 @@
 title = 'Andrea Peruffo'
 
-[author]
+[params.author]
   name = "Andrea Peruffo"
   image = "img/author.jpg"
   links = [

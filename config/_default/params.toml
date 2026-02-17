@@ -1,8 +1,23 @@
 
-colorScheme = "congo"
+colorScheme = "ocean"
 
 enableEmoji = true
 enableRobotsTXT = true
+
+enableSearch = true
+
+[header]
+  layout = "hybrid"
+
+[footer]
+  showAppearanceSwitcher = true
+  showThemeAttribution = false
+
+[article]
+  showBreadcrumbs = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showCodeCopy = true
 
 [homepage]
   layout = "profile"

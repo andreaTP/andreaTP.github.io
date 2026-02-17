@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:42587/</loc>
+            <lastmod>2022-05-11T10:46:23+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:42587/posts/</loc>
+            <lastmod>2022-05-11T10:46:23+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:42587/posts/java-shell-4-kube/</loc>
+            <lastmod>2022-05-11T10:46:23+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:42587/projects/</loc>
+            <lastmod>2021-10-27T11:33:57+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:42587/videos/</loc>
+            <lastmod>2021-10-27T11:33:57+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:42587/posts/a-personal-site/</loc>
+            <lastmod>2021-10-27T10:46:23+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
