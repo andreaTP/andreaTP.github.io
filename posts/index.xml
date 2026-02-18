@@ -1,7 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Andrea Peruffo</title><link>http://andreaperuffo.com/posts/</link><description>Recent content in Posts on Andrea Peruffo</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 11 May 2022 10:46:23 +0100</lastBuildDate><atom:link href="http://andreaperuffo.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Typed Java shell for Kubernetes extensions at fingertips</title><link>http://andreaperuffo.com/posts/java-shell-4-kube/</link><pubDate>Wed, 11 May 2022 10:46:23 +0100</pubDate><guid>http://andreaperuffo.com/posts/java-shell-4-kube/</guid><description>Working with Java vibrant tooling ecosystem on Kubernetes nowadays is a blast and you should know about it!
-Wait, wait, what&amp;rsquo;s going on???
-Let&amp;rsquo;s go through the BOM (Bill of Material) of the used tools first:
-:globe_with_meridians: Kubernetes extensions # On Kubernetes, the Operator pattern has quickly become a popular way to provide &amp;ldquo;Kubernetes native&amp;rdquo; experience for various services and applications.
-The contract for &amp;ldquo;talking&amp;rdquo; to Operators is based on Custom Resource Definitions (CRD) and Custom Resources (CR) which are usually shipped as plain and agnostic yaml files.</description></item><item><title>The start of a new personal site</title><link>http://andreaperuffo.com/posts/a-personal-site/</link><pubDate>Wed, 27 Oct 2021 10:46:23 +0100</pubDate><guid>http://andreaperuffo.com/posts/a-personal-site/</guid><description>:megaphone: I finally decided to create my personal website! :megaphone:
-I&amp;rsquo;m not new to writing blog posts and other kind of content and here you have a couple of examples:
-Lightbend 2021: Writing Kubectl plugins with Scala or Java, with Fabric8 Kubernetes client on GraalVM Codacy 2020: Top 6 items for your code review checklist But I have been lazy enough to always rely on someone else website :smile:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Andrea Peruffo</title><link>http://andreaperuffo.com/posts/</link><description>Recent content in Posts on Andrea Peruffo</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 11 May 2022 10:46:23 +0100</lastBuildDate><atom:link href="http://andreaperuffo.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Typed Java shell for Kubernetes extensions at fingertips</title><link>http://andreaperuffo.com/posts/java-shell-4-kube/</link><pubDate>Wed, 11 May 2022 10:46:23 +0100</pubDate><guid>http://andreaperuffo.com/posts/java-shell-4-kube/</guid><description>&lt;p&gt;Working with Java vibrant tooling ecosystem on Kubernetes nowadays is a blast and you should know about it!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+ 
+ 
+&lt;figure&gt;&lt;img src="http://andreaperuffo.com/img/demo.gif" alt="demo" class="mx-auto my-0 rounded-md" /&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Wait, wait, what&amp;rsquo;s going on???&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s go through the BOM (Bill of Material) of the used tools first:&lt;/p&gt;
+&lt;h2 id="globe_with_meridians-kubernetes-extensions" class="relative group"&gt;:globe_with_meridians: Kubernetes extensions &lt;span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"&gt;&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#globe_with_meridians-kubernetes-extensions" aria-label="Anchor"&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;On Kubernetes, the &lt;a href="https://kubernetes.io/docs/concepts/extend-kubernetes/operator/" target="_blank" rel="noreferrer"&gt;Operator pattern&lt;/a&gt; has quickly become a
+popular way to provide &amp;ldquo;Kubernetes native&amp;rdquo; experience for various services and applications.&lt;/p&gt;</description></item><item><title>The start of a new personal site</title><link>http://andreaperuffo.com/posts/a-personal-site/</link><pubDate>Wed, 27 Oct 2021 10:46:23 +0100</pubDate><guid>http://andreaperuffo.com/posts/a-personal-site/</guid><description>&lt;p&gt;:megaphone: I finally decided to create my personal website! :megaphone:&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not new to writing blog posts and other kind of content and here you have a couple of examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.lightbend.com/blog/writing-kubectl-plugins-with-scala-or-java-with-fabric8-kubernetes-client-on-graalvm" target="_blank" rel="noreferrer"&gt;Lightbend 2021: &lt;code&gt;Writing Kubectl plugins with Scala or Java, with Fabric8 Kubernetes client on GraalVM&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.codacy.com/top-6-items-code-review-checklist/" target="_blank" rel="noreferrer"&gt;Codacy 2020: &lt;code&gt;Top 6 items for your code review checklist&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But I have been lazy enough to always rely on someone else website :smile:&lt;/p&gt;
+&lt;p&gt;Here we go, now I have an amazing domain name and a pretty solid starting point with &lt;a href="https://gohugo.io/" target="_blank" rel="noreferrer"&gt;Hugo&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
